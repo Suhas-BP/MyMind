@@ -1,26 +1,11 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.MyMind">
 
-# BBY-31 -> MyMind
+# MyMind
 <img src="https://raw.githubusercontent.com/salesp07/salesp07.github.io/master/public/mymind-responsive.png" alt="MyMind screenshot"/>
 
 ## Contributors
-Towa Quimbayo:
-[LinkedIn](https://www.linkedin.com/in/towa-quimbayo/) |
-[GitHub](https://github.com/towaquimbayo)
-
-Kian Azizkhani
-[LinkedIn](https://www.linkedin.com/in/kian-azizkhani/) |
-[GitHub](https://github.com/KianAzizkhani)
-
-Pedro Sales-Muniz
-[LinkedIn](https://www.linkedin.com/in/pedro-sales-muniz/) |
-[GitHub](https://github.com/salesp07)
-
-Alex Gibbison
-[LinkedIn](https://www.linkedin.com/in/alexander-gibbison-786683153/) |
-[GitHub](https://github.com/Soultey )
-
-<img src="https://contrib.rocks/image?repo=salesp07/MyMind" />
+Santhosh N: 1BM23CS302
+Suhas B P : 1BM23CS345
 
 Milestone 1: Login / Logout - 100% Completed\
 Milestone 2: Patient, Therapist, and Admin user types - 100% Completed\
@@ -28,18 +13,12 @@ Milestone 3: Admin Dashboard - 100% Completed\
 Milestone 4: Shopping Cart Component - 100% Completed\
 Milestone 5: Online Chat - 100% Completed
 
-## One sentence pitch
-Our team BBY31\
-is developing MyMind which is a web application\
-to help people struggling with mental health problems\
-to provide professional help from our therapist specialist that can help improve their mental health\
-with guided therapy sessions.
-
 ## Technologies used
 Frontend - HTML, CSS\
 Backend - Node.js, JavaScript, jQuery, Ajax,  MongoDB Altlas,  Git, Heroku 
 Node.js Modules - Nodemon, Express.js, Express-session, Path, Mongoose, Multer, Http, Socket.io, Nodemailer, Bcrypt
 
+/**
 ## How to Run the project
 
 1. Install:
@@ -64,6 +43,7 @@ Node.js Modules - Nodemon, Express.js, Express-session, Path, Mongoose, Multer, 
 `MAIL_PASS=<your-password>`
 
 7. Run the project by typing "npm run devStart" and going to http://localhost:8000/ on your browser.
+ **/
 
 ## How to use main features
 
@@ -115,4 +95,5 @@ Node.js Modules - Nodemon, Express.js, Express-session, Path, Mongoose, Multer, 
 
 ## How to contribute
 Pull requests are welcome. Please divide your PRs in 3 sections: `Problem`, `Solution`, `Testing`.
+
 
