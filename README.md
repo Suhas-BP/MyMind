@@ -1,0 +1,1 @@
+# MyMind_mini_project
