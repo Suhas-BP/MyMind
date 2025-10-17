@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/salesp07/salesp07.github.io/master/public/mymind-responsive.png" alt="MyMind screenshot"/>
 
 ## Contributors
-Santhosh N: 1BM23CS302
+Santhosh N: 1BM23CS302\
 Suhas B P : 1BM23CS345
 
 Milestone 1: Login / Logout - 100% Completed\
@@ -18,7 +18,7 @@ Frontend - HTML, CSS\
 Backend - Node.js, JavaScript, jQuery, Ajax,  MongoDB Altlas,  Git, Heroku 
 Node.js Modules - Nodemon, Express.js, Express-session, Path, Mongoose, Multer, Http, Socket.io, Nodemailer, Bcrypt
 
-/**
+<!--
 ## How to Run the project
 
 1. Install:
@@ -43,7 +43,7 @@ Node.js Modules - Nodemon, Express.js, Express-session, Path, Mongoose, Multer, 
 `MAIL_PASS=<your-password>`
 
 7. Run the project by typing "npm run devStart" and going to http://localhost:8000/ on your browser.
- **/
+ -->
 
 ## How to use main features
 
@@ -95,5 +95,6 @@ Node.js Modules - Nodemon, Express.js, Express-session, Path, Mongoose, Multer, 
 
 ## How to contribute
 Pull requests are welcome. Please divide your PRs in 3 sections: `Problem`, `Solution`, `Testing`.
+
 
 
